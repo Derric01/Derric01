@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Derric01
+- 👋 Hi, I’m @Derric
 - 👀 I’m interested in working out and coding...
-- 🌱 I’m currently learning to code in java
+- 🌱 I’m currently learning to code and build projects!!
 - 💞️ I love to work with other coders
-- 📫 How to reach me :derricsoren05@gmail.com
+- 📫 How to reach me :derricsamson17@gmail.com
 
 <!---
 Derric01/Derric01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
