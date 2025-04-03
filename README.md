@@ -4,25 +4,20 @@
   <img src="https://media.giphy.com/media/26FPG8pQZC5h5KSL2/giphy.gif" width="60%">
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Friedrich_Nietzsche.jpg/800px-Friedrich_Nietzsche.jpg" width="150px">
-</p>
-
 ---
 
 ## 💻 Coder by Day, Gym Enthusiast by Night! 🏋️‍♂️  
-🎯 **Turning ideas into reality through code & innovation.**  
-⚡ **Passionate about full-stack development, Web3, and cybersecurity.**  
-💡 **Building real-world projects & solving meaningful problems.**  
-🏆 **Striving for excellence in everything I do.**  
+🚀 **Passionate about Web Development, AI, Web3, and all things tech!**  
+💡 **Building impactful projects and constantly learning new skills.**  
+⚡ **Always on the lookout for innovative solutions & cutting-edge tech!**  
 
 ---
 
-## 🚀 What I'm Up To  
-🛠 **Exploring Web Development, AI, and Web3.**  
-🔒 **Diving into blockchain security & cryptography.**  
-📈 **Building side projects to level up my skills.**  
-🤝 **Collaborating with developers worldwide.**  
+## 🔥 What I'm Exploring  
+✅ **Web Development:** Frontend, Backend, and Full-Stack magic!  
+✅ **AI & ML:** Diving into data, automation, and intelligent systems.  
+✅ **Web3 & Blockchain:** Exploring decentralization, smart contracts & crypto.  
+✅ **Continuous Learning:** Staying ahead with the latest tech trends.  
 
 ---
 
@@ -42,7 +37,7 @@
 
 ---
 
-## 🔥 GitHub Stats  
+## 🚀 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Derric01&show_icons=true&theme=tokyonight" width="48%">
@@ -83,5 +78,5 @@
 > **"He who has a why to live can bear almost any how."** — Friedrich Nietzsche  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="60%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Friedrich_Nietzsche.jpg/800px-Friedrich_Nietzsche.jpg" width="150px">
 </p>
