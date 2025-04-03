@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Derric! 🚀</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26FPG8pQZC5h5KSL2/giphy.gif" width="60%">
-</p>
-
----
 
 ## 💻 Coder by Day, Gym Enthusiast by Night! 🏋️‍♂️  
 🚀 **Passionate about Web Development, AI, Web3, and all things tech!**  
@@ -77,6 +72,4 @@
 
 > **"He who has a why to live can bear almost any how."** — Friedrich Nietzsche  
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Friedrich_Nietzsche.jpg/800px-Friedrich_Nietzsche.jpg" width="150px">
-</p>
+
