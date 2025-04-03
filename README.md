@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/26FPG8pQZC5h5KSL2/giphy.gif" width="60%">
 </p>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Friedrich_Nietzsche.jpg/800px-Friedrich_Nietzsche.jpg" width="150px">
+</p>
+
 ---
 
 ## 💻 Coder by Day, Gym Enthusiast by Night! 🏋️‍♂️  
@@ -72,4 +76,12 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%">
 </p>
 
-✨ **"The best way to predict the future is to create it."** 🚀  
+---
+
+## ✨ Nietzsche's Wisdom  
+
+> **"He who has a why to live can bear almost any how."** — Friedrich Nietzsche  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="60%">
+</p>
