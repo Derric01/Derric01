@@ -2,7 +2,7 @@
 
 
 ## 💻 Coder by Day, Gym Enthusiast by Night! 🏋️‍♂️  
-🚀 **Passionate about Web Development, AI, Web3, and all things tech!**  
+🚀 **Passionate about Web Development, AI, Web3, and all tech things!**  
 💡 **Building impactful projects and constantly learning new skills.**  
 ⚡ **Always on the lookout for innovative solutions & cutting-edge tech!**  
 
