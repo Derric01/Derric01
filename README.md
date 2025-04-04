@@ -1,4 +1,3 @@
-Sure! Here's your polished and updated GitHub README.md content wrapped in a neat code block:
 
 <h1 align="center">👋 Hey there, I'm Derric! 🚀</h1>
 
