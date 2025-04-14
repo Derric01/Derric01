@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hey there, I'm Derric! 🚀</h1>
 
 ## 💻 Coder by Day, Gym Enthusiast by Night! 🏋️‍♂️  
@@ -54,14 +53,14 @@
 📩 **Reach out via email:** derricsamson17@gmail.com  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/derric01" target="_blank">
+  <a href="https://www.linkedin.com/in/derric-samson-409a642b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.instagram.com/derric_mars" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://github.com/Derric01" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://twitter.com/derric_samson" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter">
   </a>
 </p>
 
@@ -76,4 +75,3 @@
 ## ✨ Nietzsche's Wisdom  
 
 > **"He who has a why to live can bear almost any how."** — Friedrich Nietzsche
-
