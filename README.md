@@ -1,77 +1,84 @@
-<h1 align="center">👋 Hey there, I'm Derric! 🚀</h1>
-
-## 💻 Coder by Day, Gym Enthusiast by Night! 🏋️‍♂️  
-🚀 **Passionate about Web Development, AI, Web3, and all tech things!**  
-💡 **Building impactful projects and constantly learning new skills.**  
-⚡ **Always on the lookout for innovative solutions & cutting-edge tech!**  
-
----
-
-## 🔥 What I'm Exploring  
-✅ **Web Development:** Frontend, Backend, and Full-Stack magic!  
-✅ **AI & ML:** Diving into data, automation, and intelligent systems.  
-✅ **Web3 & Blockchain:** Exploring decentralization, smart contracts & crypto.  
-✅ **Continuous Learning:** Staying ahead with the latest tech trends.  
-
----
-
-## 🛠️ Tech Stack  
+h1 align="center">Hi there, I'm <span style="color:#00BFFF;">Derric Samson</span>! 🚀</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,solidity,git,github,figma" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Developer;Blockchain+Explorer;AI+Learner;Gym+Enthusiast+%F0%9F%8F%8B%EF%B8%8F;Always+Building%2C+Always+Learning" />
 </p>
 
 ---
 
-## 🌟 Featured Projects  
+## 💡 About Me
 
-🚀 [**Voice Translator (Raspberry Pi Project)**](https://github.com/Derric01/Voice-Translator) – Real-time speech translation using Python & APIs  
-📌 [**Web3-based Authentication System**](https://github.com/Derric01/Web3-Auth) – Decentralized user login using smart contracts  
-💻 [**Gym Management Website**](https://github.com/Derric01/Gym-Manager) – Track members, payments, packages, and attendance  
-
----
-
-## 🚀 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Derric01&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Derric01&theme=tokyonight" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derric01&layout=compact&theme=tokyonight" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/Derric01/DSA-Roadmap?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Derric01&color=blue&style=flat-square" />
-</p>
+- 🔭 **Building Web, AI, and Blockchain Projects**  
+- ⚡ **Fuelled by creativity, passion, and a desire to innovate**  
+- 🧠 **Lifelong learner exploring new technologies**  
+- 🏋️ **Pumping code by day, lifting weights by night**
 
 ---
 
-## 🤝 Let's Connect!  
-📩 **Reach out via email:** derricsamson17@gmail.com  
+## 🚀 Current Focus Areas
+
+- **Frontend & Backend Development** — (React, Node.js, Next.js)
+- **AI & Machine Learning** — (Python, TensorFlow, LangChain)
+- **Web3 & Smart Contracts** — (Solidity, Ethereum, MetaMask Integration)
+- **UI/UX Design** — (Figma, Framer Motion)
+
+---
+
+## 🛠️ Tech Toolbox
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/derric-samson-409a642b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://www.instagram.com/derric_mars" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://github.com/Derric01" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github">
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,tailwind,python,java,cpp,solidity,mongodb,git,github,figma" />
 </p>
 
 ---
 
+## 🌟 Featured Projects
+
+- [**Voice Translator (Raspberry Pi Project)**](https://github.com/Derric01/Voice-Translator) – Real-time multi-language speech translator  
+- [**Web3 Authentication System**](https://github.com/Derric01/Web3-Auth) – Secure decentralized login with smart contracts  
+- [**Gym Manager**](https://github.com/Derric01/Gym-Manager) – A complete gym management web platform  
+
+---
+
+## 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Derric01&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Derric01&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derric01&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
 
-## ✨ Nietzsche's Wisdom  
+## 🧠 Learning Journey
 
-> **"He who has a why to live can bear almost any how."** — Friedrich Nietzsche
+- Building **Next.js 14** apps  
+- Experimenting with **LangChain + LLMs**  
+- Smart Contract Development with **Foundry**  
+- Enhancing UI/UX skills in **Figma**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:derricsamson17@gmail.com"><img src="https://img.shields.io/badge/Email-DerricSamson-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/derric-samson-409a642b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-DerricSamson-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Derric01" target="_blank"><img src="https://img.shields.io/badge/GitHub-DerricSamson-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.instagram.com/derric_mars/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DerricMars-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ NIETSZCHE'S
+
+> **"He who has a why to live can bear almost any how."** — *Friedrich Nietzsche*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="55%">
+</p>
