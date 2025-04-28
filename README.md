@@ -1,4 +1,4 @@
-h1 align="center">Hi there, I'm <span style="color:#00BFFF;">Derric Samson</span>! 🚀</h1>
+<h1 align="center">Hi there, I'm <span style="color:#00BFFF;">Derric Samson</span>! 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Developer;Blockchain+Explorer;AI+Learner;Gym+Enthusiast+%F0%9F%8F%8B%EF%B8%8F;Always+Building%2C+Always+Learning" />
