@@ -28,26 +28,6 @@
 
 ---
 
-## 🌟 Projects
-
-- 🔍 [**GitHunterPro**](https://github.com/Derric01/GitHunterPro)  
-  <sub><em>React.js, ShadCN UI, Tailwind CSS</em></sub>  
-  – GitHub user finder with a sleek dark-mode UI
-
-- 💰 [**Finance Tracker**](https://github.com/Derric01/Finance_Tracker_frontend)  
-  <sub><em>React.js, Gemini AI, Tailwind CSS</em></sub>  
-  – AI-powered finance tracker with multi-currency budgeting
-
-- 🏋️ [**GymShark**](https://github.com/Derric01/GymShark_frontend)  
-  <sub><em>React.js, Tailwind CSS, AI API</em></sub>  
-  – Fitness platform with smart workouts and meal planning
-
-- 🤖 [**Customer Assistance Bot**](https://github.com/Derric01/Customer_Assistance)  
-  <sub><em>Node.js, REST APIs, NLP</em></sub>  
-  – Smart support chatbot using natural language processing
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -59,10 +39,10 @@
 
 ## 🔭 Currently Exploring
 
-- **Next.js 14** and **App Router**
-- **LangChain** & custom LLM integrations
-- **Foundry** for Solidity development
-- **Clean UI Systems** with Figma
+- ⚡ **Next.js 14** and **App Router**
+- 🤖 **LangChain** & custom LLM integrations
+- 🧱 **Foundry** for Solidity development
+- 🎨 **Clean UI Systems** with Figma
 
 ---
 
