@@ -77,7 +77,3 @@
 > — Friedrich Nietzsche
 
 ---
-
-<p align="center">
-  <sub>💫 Crafted with passion and curiosity — by <strong>Derric Samson</strong></sub>
-</p>
