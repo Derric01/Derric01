@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,nodejs,express,mongodb,python,typescript,java,cpp,git,github,vercel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,nodejs,express,mongodb,python,typescript,java,cpp,git,github,vercel,tensorflow,pytorch,sklearn,jupyter,openai&perline=8" />
 </p>
+
 
 ---
 
