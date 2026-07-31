@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Derric Samson 👋</h1>
+<h1 align="center">Hi, I'm Derric </h1>
 
 <p align="center">
   <strong>Founding Engineer • AI Engineer • Full-Stack Developer</strong>
