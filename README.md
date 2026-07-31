@@ -1,19 +1,43 @@
-About
+<h1 align="center">Hi, I'm Derric Samson 👋</h1>
 
-I’m an AI and software engineer focused on building reliable products rather than demos.
+<p align="center">
+  <strong>Founding Engineer • AI Engineer • Full-Stack Developer</strong>
+</p>
 
-My interests include:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,express,mongodb,docker,git,github,pytorch,tensorflow,linux,vscode&perline=7" />
+</p>
 
-* AI Agents & LLM Applications
-* Retrieval-Augmented Generation (RAG)
-* Document Intelligence
-* Backend Architecture
-* Distributed Systems
-* Applied Machine Learning
-* Open Source Software
+---
 
-I’m an active supporter of open source and enjoy contributing to projects that make AI tooling more accessible.
+## About
 
-Currently, I’m building CurveVision—an open-source web and desktop annotation platform designed for creating high-quality datasets for computer vision and AI applications.
+I'm **Derric Samson**, an AI engineer passionate about building production-ready AI systems, scalable backend services, and intelligent developer tools.
 
-I enjoy designing systems that are simple, scalable, and maintainable.
+### Interests
+
+- Open Source Software
+- AI Agents & LLM Applications
+- Document Intelligence
+- Computer Vision
+- Distributed Systems
+
+### Currently Working On
+
+**CurveVision** — an open-source web and desktop annotation platform for creating high-quality datasets for computer vision and AI applications.
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,github,linux,vercel" />
+</p>
