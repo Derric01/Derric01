@@ -4,10 +4,6 @@
   <strong>Founding Engineer • AI Engineer • Full-Stack Developer</strong>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,express,mongodb,docker,git,github,pytorch,tensorflow,linux,vscode&perline=7" />
-</p>
-
 ---
 
 ## About
