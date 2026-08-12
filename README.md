@@ -21,7 +21,7 @@ I'm **Derric Samson**, an AI engineer passionate about building production-ready
 ### Currently Working On
 
 **CurveVision** — an open-source web and desktop annotation platform for creating high-quality datasets for computer vision and AI applications.
-
+**coding agent** - unified open source.
 ---
 
 ## Tech Stack
