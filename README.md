@@ -45,7 +45,7 @@ An open-source **web and desktop annotation platform** for creating high-quality
 
 **Focus:** annotation workflows • dataset management • computer vision • AI data pipelines
 
-### 🤖 Unified Coding Agent
+### 🤖 CLUTCHCODE
 
 An open-source coding agent designed to bring modern AI-assisted software development into a **single, extensible developer tool**.
 
